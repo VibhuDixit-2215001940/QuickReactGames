@@ -68,8 +68,9 @@ Here’s a glimpse of the fun waiting for you in **QuickReactGames**:
 | 🎮 Game          | ✨ Screenshot                                                                 |
 |------------------|------------------------------------------------------------------------------|
 | **Tic Tac Toe**  | ![Tic Tac Toe](https://via.placeholder.com/300x200?text=Tic+Tac+Toe+Preview) |
-| **2048**         | ![2048](https://via.placeholder.com/300x200?text=2048+Preview)               |
-| **Color Choose Win** | ![Color Choose Win](https://github.com/user-attachments/assets/99644992-d72e-4183-a6f2-3182270f181f) |
+| **2048**         | ![2048](https://github.com/user-attachments/assets/99644992-d72e-4183-a6f2-3182270f181f)             |
+| **Color Choose Win** | ![Color Choose Win](https://github.com/user-attachments/assets/dc696a00-f8c9-44d7-bdbe-c90f4c4abce6)
+ |
 
 Check them out by cloning the repo and playing now! 🚀  
 
