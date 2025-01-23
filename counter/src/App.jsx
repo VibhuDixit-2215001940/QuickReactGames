@@ -8,8 +8,21 @@ const App = () => {
   }
 
   return (
-    <div style={{ textAlign: 'center', marginTop: '20px', fontFamily: 'Arial, sans-serif' }}>
-      <h1 style={{ color: '#4CAF50', fontSize: '2.5rem' }}>🎉 Hello!! 🎉</h1>
+    <div
+      style={{
+        textAlign: 'center',
+        // marginTop: '20px',
+        fontFamily: 'Arial, sans-serif',
+        backgroundImage:
+          "url('https://image.slidesdocs.com/responsive-images/background/ample-room-available-on-sleek-wooden-kitchen-countertop-within-minimalist-3d-rendering-of-kitchen-space-powerpoint-background_7b5006c322__960_540.jpg')",
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center',
+        height: '95vh', // Ensures it fills the viewport
+        // padding: '20px',
+      }}
+    >
+      <h1 style={{marginTop: '20px', color: '#4CAF50', fontSize: '2.5rem' }}>🎉 Hello!! 🎉</h1>
       <h2 style={{ color: '#555', fontSize: '1.8rem' }}>
         Just Click The Button And Watch The Magic! ✨
       </h2>
