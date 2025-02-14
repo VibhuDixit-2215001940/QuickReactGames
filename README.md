@@ -67,10 +67,13 @@ Here’s a glimpse of the fun waiting for you in **QuickReactGames**:
 
 | 🎮 Game          | ✨ Screenshot                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| **Tic Tac Toe**  | ![Tic Tac Toe](https://via.placeholder.com/300x200?text=Tic+Tac+Toe+Preview) |
+| **Crousal**  | ![image](https://github.com/user-attachments/assets/93c72b17-ded5-42cb-9ea8-b79e972cd17c) |
 | **2048**         | ![2048](https://github.com/user-attachments/assets/99644992-d72e-4183-a6f2-3182270f181f)             |
 | **Color Choose Win** | ![Color Choose Win](https://github.com/user-attachments/assets/dc696a00-f8c9-44d7-bdbe-c90f4c4abce6)
- |
+| **[Calculator](https://calcivibhu.netlify.app/)** | ![image](https://github.com/user-attachments/assets/54869832-7b21-4791-b279-3c7ba60604a3) |
+| **Note Nating App** | ![image](https://github.com/user-attachments/assets/8ddd09c8-52da-4127-950e-5480ba5456b6) |
+
+
 
 Check them out by cloning the repo and playing now! 🚀  
 
