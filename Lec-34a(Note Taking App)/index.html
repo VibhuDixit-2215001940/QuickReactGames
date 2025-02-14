@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#add {
+    background-color: #28a745;
+    color: white;
+}
+
+#del {
+    background-color: #dc3545;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+li {
+    background: white;
+    padding: 10px;
+    margin: 5px auto;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: #f8f9fa;
+}
+
+li.line-through {
+    text-decoration: line-through;
+    color: gray;
+}
+
+    </style>
+</head>
+<body>
+    <h1>My Daily Note Taking App!!</h1>
+    <input type="text" name="" id="title" placeholder="Enter your task here!!">
+    <button id="add">Add Task</button>
+    <button id="del">Delete</button>
+
+
+    <ul id="List">
+
+    </ul>
+    <script src="app.js"></script>
+</body>
+</html>
